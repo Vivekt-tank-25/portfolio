@@ -1,0 +1,24 @@
+body{
+	width:1080px;
+	height:2140px;
+		
+}
+
+h1{
+	text-align: center;
+	color: green;
+}
+
+table{
+
+	border-color: magenta;
+	box-sizing: all;
+	border-radius: 15px;
+    border-style: dashed;
+
+}
+.table1{
+	text-align: right;
+
+    
+}
